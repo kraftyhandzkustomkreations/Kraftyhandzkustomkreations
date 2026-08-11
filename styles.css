@@ -86,3 +86,40 @@ footer{display:grid;grid-template-columns:1.3fr 1fr 1fr 1.2fr;gap:2rem;padding:3
   }
 
 }
+.she-eo {
+
+  color: var(--gold);
+
+  font-family: "Cormorant Garamond", serif;
+
+  font-size: 1.5rem;
+
+  font-weight: 600;
+
+  letter-spacing: .08em;
+
+  margin: .35rem 0 .2rem;
+
+}
+
+.gallery-item {
+
+  margin: 0;
+
+}
+
+.gallery-item figcaption {
+
+  margin-top: 10px;
+
+  font-size: .82rem;
+
+  letter-spacing: .12em;
+
+  text-transform: uppercase;
+
+  text-align: center;
+
+  color: #6f655d;
+
+}
