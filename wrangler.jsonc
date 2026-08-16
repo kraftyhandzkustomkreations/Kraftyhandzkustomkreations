@@ -1,7 +1,21 @@
 {
+
   "name": "kraftyhandzkustomkreations",
+
   "compatibility_date": "2026-08-04",
+
   "assets": {
-    "directory": "."
+
+    "directory": ".",
+
+    "exclude": [
+
+      ".git/**",
+
+      ".wrangler/**"
+
+    ]
+
   }
+
 }
